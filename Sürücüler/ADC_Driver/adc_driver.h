@@ -13,7 +13,7 @@
 
 #define NUM_OF_ADC_CHANNELS  5         //Kanal sayısı
 
-#define VDDA                3300      //mV cinsinden
+#define VDDA                3300.0      //mV cinsinden
 
 #define DIGITAL_SCALE_6BITS    0x3F    //63
 #define DIGITAL_SCALE_8BITS    0xFF   //255
